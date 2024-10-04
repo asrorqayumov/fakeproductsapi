@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Bluetooth Headphones",
+    "price": 59.99,
+    "description": "Noise-canceling wireless headphones with up to 20 hours of battery life."
+  },
+  {
+    "id": 2,
+    "title": "4K Ultra HD Smart TV",
+    "price": 499.99,
+    "description": "65-inch 4K Ultra HD Smart TV with HDR and built-in streaming apps."
+  },
+  {
+    "id": 3,
+    "title": "Gaming Laptop",
+    "price": 1099.99,
+    "description": "High-performance laptop with an Intel i7 processor and NVIDIA graphics card."
+  },
+  {
+    "id": 4,
+    "title": "Smartphone with 128GB Storage",
+    "price": 699.99,
+    "description": "Latest model smartphone with a powerful camera and large storage capacity."
+  },
+  {
+    "id": 5,
+    "title": "Fitness Tracker",
+    "price": 49.99,
+    "description": "Track your steps, heart rate, and sleep patterns with this lightweight fitness tracker."
+  },
+  {
+    "id": 6,
+    "title": "Portable Bluetooth Speaker",
+    "price": 29.99,
+    "description": "Compact Bluetooth speaker with deep bass and up to 10 hours of playtime."
+  },
+  {
+    "id": 7,
+    "title": "Electric Toothbrush",
+    "price": 39.99,
+    "description": "Rechargeable electric toothbrush with multiple brushing modes and a 2-minute timer."
+  },
+  {
+    "id": 8,
+    "title": "Smartwatch",
+    "price": 199.99,
+    "description": "Stylish smartwatch with heart rate monitoring, GPS, and fitness tracking."
+  },
+  {
+    "id": 9,
+    "title": "Cordless Vacuum Cleaner",
+    "price": 149.99,
+    "description": "Lightweight, cordless vacuum cleaner with powerful suction and long battery life."
+  },
+  {
+    "id": 10,
+    "title": "Air Fryer",
+    "price": 89.99,
+    "description": "Healthy cooking made easy with this 5-quart air fryer featuring adjustable temperature control."
+  },
+  {
+    "id": 11,
+    "title": "Electric Kettle",
+    "price": 24.99,
+    "description": "1.7L electric kettle with auto shut-off and quick boiling technology."
+  },
+  {
+    "id": 12,
+    "title": "Standing Desk",
+    "price": 299.99,
+    "description": "Height-adjustable standing desk with an electric lift system for a comfortable workspace."
+  },
+  {
+    "id": 13,
+    "title": "Noise-Canceling Earbuds",
+    "price": 149.99,
+    "description": "Compact noise-canceling earbuds with superior sound quality and long battery life."
+  },
+  {
+    "id": 14,
+    "title": "Digital Camera",
+    "price": 599.99,
+    "description": "24MP digital camera with 4K video recording and interchangeable lenses."
+  },
+  {
+    "id": 15,
+    "title": "Smart Light Bulb",
+    "price": 19.99,
+    "description": "Wi-Fi-enabled smart light bulb compatible with voice control for easy home automation."
+  },
+  {
+    "id": 16,
+    "title": "Home Security Camera",
+    "price": 89.99,
+    "description": "1080p HD indoor/outdoor security camera with motion detection and night vision."
+  },
+  {
+    "id": 17,
+    "title": "Portable Charger",
+    "price": 29.99,
+    "description": "10,000mAh portable charger with fast charging technology and dual USB ports."
+  },
+  {
+    "id": 18,
+    "title": "Wireless Mouse",
+    "price": 19.99,
+    "description": "Ergonomic wireless mouse with adjustable DPI and a comfortable grip."
+  },
+  {
+    "id": 19,
+    "title": "Electric Pressure Cooker",
+    "price": 79.99,
+    "description": "6-quart electric pressure cooker with multiple cooking functions and a digital display."
+  },
+  {
+    "id": 20,
+    "title": "Smart Thermostat",
+    "price": 129.99,
+    "description": "Wi-Fi-enabled smart thermostat that learns your schedule and helps save energy."
+  }
+]
